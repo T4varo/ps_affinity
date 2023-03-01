@@ -1,0 +1,8 @@
+[config]
+# modes: endless, once, all_once
+mode = "endless"
+admin = 1
+
+[processes]
+"audiodg.exe" = 1
+
